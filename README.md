@@ -1,2 +1,2 @@
 # javascript-praktika
-Ushbu repositotyda JavaScript Tasks and Answers
+Ushbu repositotyda JavaScript Tasks and Answers.
